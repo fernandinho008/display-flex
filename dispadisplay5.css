@@ -9,6 +9,7 @@ body{
 .container{
     border: 2px solid black;
     height: 480px;
+    width: 640;
     display: flex;
     align-items: flex-start;
     justify-content: space-evenly;
